@@ -1,4 +1,4 @@
-## **TP Responsive Web Design**
+## **TP Responsive Web Design -  Il ne s'agit pas du bon repo ! je l'ai transférer sur le TP2 de cette année**
 
 ![](img/exemple.gif)
 
